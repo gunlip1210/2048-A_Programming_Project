@@ -1,1 +1,2 @@
-# 2048-A_Programming_Project
+# 2048: A Programming Project
+Implemented the 2048 game in C for programming practice.
